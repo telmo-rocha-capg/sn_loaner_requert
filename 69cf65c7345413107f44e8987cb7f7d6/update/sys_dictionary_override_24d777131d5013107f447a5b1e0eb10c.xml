@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_dictionary_override">
+    <sys_dictionary_override action="INSERT_OR_UPDATE">
+        <attributes/>
+        <attributes_override>true</attributes_override>
+        <base_table>task</base_table>
+        <calculation/>
+        <calculation_override>true</calculation_override>
+        <default_value>13</default_value>
+        <default_value_override>true</default_value_override>
+        <dependent/>
+        <dependent_override>true</dependent_override>
+        <display_override>false</display_override>
+        <element>state</element>
+        <mandatory>false</mandatory>
+        <mandatory_override>true</mandatory_override>
+        <name>x_cdltd_loaner_r_0_loaner_request</name>
+        <read_only>false</read_only>
+        <read_only_option/>
+        <read_only_option_override>true</read_only_option_override>
+        <read_only_override>true</read_only_override>
+        <reference_qual/>
+        <reference_qual_override>true</reference_qual_override>
+        <sys_class_name>sys_dictionary_override</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-07 16:02:09</sys_created_on>
+        <sys_id>24d777131d5013107f447a5b1e0eb10c</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name>state</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">69cf65c7345413107f44e8987cb7f7d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">69cf65c7345413107f44e8987cb7f7d6</sys_scope>
+        <sys_update_name>sys_dictionary_override_24d777131d5013107f447a5b1e0eb10c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-07 16:22:28</sys_updated_on>
+    </sys_dictionary_override>
+</record_update>
