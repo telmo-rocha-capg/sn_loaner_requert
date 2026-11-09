@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" audit="true" db_object_id="79e4b1cf345413107f44e8987cb7f731" extends="task" label="Loaner Request" max_length="40" name="x_cdltd_loaner_r_0_loaner_request" type="collection">
+        <element label="Return reminder" max_length="255" name="u_return_reminder" type="glide_date_time"/>
+        <element label="Overdue count" max_length="255" name="u_overdue_count" type="integer"/>
         <element label="Location to be used" max_length="40" name="u_location_to_be_used" type="string"/>
         <element choice="3" default="sc" label="Depot" max_length="255" name="u_depot" type="choice">
             <choice>
@@ -23,6 +25,7 @@
             </choice>
         </element>
         <element label="Other" max_length="40" name="u_other" type="string"/>
+        <element label="Last overdue reminder" max_length="255" name="u_last_overdue_reminder" type="glide_date_time"/>
         <element label="Pick up reminder" max_length="255" name="u_pick_up_reminder" type="glide_date_time"/>
     </element>
 </database>
