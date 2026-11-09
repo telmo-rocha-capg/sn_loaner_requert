@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Loaner Request</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-11-08 17:20:49</sys_created_on>
+        <sys_id>31b2593f391c13107f4448b00d6079f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_r_0">69cf65c7345413107f44e8987cb7f7d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">69cf65c7345413107f44e8987cb7f7d6</sys_scope>
+        <sys_update_name>sys_properties_category_31b2593f391c13107f4448b00d6079f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-11-08 17:20:49</sys_updated_on>
+        <title><![CDATA[<p><span style="text-decoration: underline; font-size: 12pt;"><strong>Loaner Request Properties<br /></strong></span><span style="font-size: 12pt;"><span style="font-size: 8pt;">Please do not change the values without knowing what you are doing.<br />Contact <span style="text-decoration: underline;"><strong>Telmo Rocha</strong></span> if you have any doubts.</span></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=31b2593f391c13107f4448b00d6079f7"/>
+</record_update>

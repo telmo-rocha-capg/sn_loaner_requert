@@ -23,5 +23,6 @@
             </choice>
         </element>
         <element label="Other" max_length="40" name="u_other" type="string"/>
+        <element label="Pick up reminder" max_length="255" name="u_pick_up_reminder" type="glide_date_time"/>
     </element>
 </database>
